@@ -134,5 +134,3 @@ dmypy.json
 .pyre/
 .ipynb_checkpoints/DNN_Lab-checkpoint.ipynb
 .ipynb_checkpoints/CNN_Lab-checkpoint.ipynb
-RNN_Lab/RNN_Lab_group.ipynb
-CNN_Lab/CNN_Lab_group.ipynb
